@@ -15,6 +15,7 @@ function teenager(age) {
 }
 
 function ageChecker(age) {
+  if(age)
 
 }
 
